@@ -59,14 +59,7 @@ function App() {
             </div>
             <h1 className="text-xl font-bold text-gray-900">Tính thu nhập 2026</h1>
           </div>
-          <!-- <a 
-            href="https://github.com/vietvudanh/vietnam-tax-2025" 
-            target="_blank" 
-            rel="noreferrer"
-            className="text-sm text-gray-500 hover:text-blue-600 transition-colors hidden sm:block"
-          >
-            
-          </a> -->
+          
         </div>
       </header>
 
