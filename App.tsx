@@ -65,7 +65,7 @@ function App() {
             rel="noreferrer"
             className="text-sm text-gray-500 hover:text-blue-600 transition-colors hidden sm:block"
           >
-            Dựa trên bản gốc
+            
           </a> -->
         </div>
       </header>
